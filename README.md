@@ -1,7 +1,6 @@
 php-hmac-rest-api
 =================
 
-Donations appreciated Bitcoin: 1EBCsnpYftigYFSpZtXWFjRTAgPb3EdZZh
 
 PHP HMAC Restful API that uses Phalcon Micro framework (works with Phalcon 1.0+ and 2.0)
 
